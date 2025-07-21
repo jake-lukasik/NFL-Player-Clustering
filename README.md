@@ -8,6 +8,7 @@ This project uses unsupervised machine learning to cluster NFL quarterbacks, run
 - **Explore play styles** using PCA and visualizations  
 - **Quantify performance** using modern metrics (e.g., EPA/play, yards per route run)  
 - **Uncover hidden similarities** between players that may not be obvious from traditional stats (see Saquon Barkley and James Cook!)
+- **Use sentiment analysis** to see what NFL fans think of the players
 
 ---
 
@@ -54,7 +55,11 @@ This project uses unsupervised machine learning to cluster NFL quarterbacks, run
 
 ## 🔍 Results
 
-Revisit with full findings 
+#### Quarterbacks
+
+#### Running Backs
+
+#### Receivers
 
 ---
 
