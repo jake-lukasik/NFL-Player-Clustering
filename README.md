@@ -14,11 +14,11 @@ This project uses unsupervised machine learning to cluster NFL quarterbacks, run
 
 ## 📂 Project Structure
 
-├── code-notebooks/ # all of my .ipynb files consisting of data preprocessing & modelling
+├── code-notebooks/ all of my .ipynb files consisting of data preprocessing & modelling
 
-├── filtered-data/ # data that I have processed in the `NFL-Player-Clustering-Data-Preprocessing.ipynb` file
+├── filtered-data/ data that I have processed in the `NFL-Player-Clustering-Data-Preprocessing.ipynb` file
 
-├── pro-football-reference-data/ # all of the plain basic statistics pulled from [Pro Football Reference](https://www.pro-football-reference.com/)
+├── pro-football-reference-data/ all of the plain basic statistics pulled from [Pro Football Reference](https://www.pro-football-reference.com/)
 
 └── README.md
 
